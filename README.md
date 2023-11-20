@@ -12,4 +12,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KirillDemyanenko)](https://github.com/KirillDemyanenko)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="c" width="40" height="40"/></a></p>
+<p align="left"> <a href="https://www.cprogramming.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="c" width="40" height="40"/></a></p>
